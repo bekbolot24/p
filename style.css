@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    color: red;
+    background-color: aqua;
+    padding: 15px;
+    border: 4px solid brown;
+}
+
+
+h1 {
+ color:blue;
+ background-color:aqua;
+ padding: 10px;
+ border: 4px solid blueviolet;
+}
+
+footer {
+    color:burlywood;
+    background-color: cyan;
+    padding: 5px;
+    border: 4px solid brown;
+}
+
+nav {
+    background-color:white ;
+    padding: 5px;
+    border: 4px solid blueviolet;
+    border-radius: 7px;
+    margin: 10px;
+}
+    
+nav a {
+    text-decoration: none;
+    margin: 30px;
+}
+.o {
+    background-color: orange;
+    border-radius: 10px;
+    }
+
+
+h2 {
+    color: blue;
+    }
+
+.qw {
+        border: 4px solid blue;
+}
+    
